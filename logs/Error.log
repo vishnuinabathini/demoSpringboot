@@ -1,0 +1,8 @@
+2022-10-19 15:08:26 pm [main] INFO  c.e.d.DemoSpringBootLoggingApplication - Starting DemoSpringBootLoggingApplication using Java 17.0.4.1 on ICS-LAP-7048 with PID 18744 (C:\Users\vishnui\Downloads\demo\demo\target\classes started by vishnui in C:\Users\vishnui\Downloads\demo)
+2022-10-19 15:08:26 pm [main] INFO  c.e.d.DemoSpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-19 15:08:27 pm [main] INFO  c.e.d.DemoSpringBootLoggingApplication - Started DemoSpringBootLoggingApplication in 1.09 seconds (JVM running for 1.418)
+2022-10-19 15:08:27 pm [main] ERROR c.e.d.DemoSpringBootLoggingApplication - Login denied. Invalid credentials.
+2022-10-19 15:08:40 pm [main] INFO  c.e.d.DemoSpringBootLoggingApplication - Starting DemoSpringBootLoggingApplication using Java 17.0.4.1 on ICS-LAP-7048 with PID 1700 (C:\Users\vishnui\Downloads\demo\demo\target\classes started by vishnui in C:\Users\vishnui\Downloads\demo)
+2022-10-19 15:08:40 pm [main] INFO  c.e.d.DemoSpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-19 15:08:41 pm [main] INFO  c.e.d.DemoSpringBootLoggingApplication - Started DemoSpringBootLoggingApplication in 0.914 seconds (JVM running for 1.197)
+2022-10-19 15:08:41 pm [main] INFO  c.e.d.DemoSpringBootLoggingApplication - Customer logged in successfully!!
